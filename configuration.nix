@@ -131,7 +131,6 @@ in
     xwayland-satellite
     qt6.qtwayland
     wl-clipboard
-    brave
     onlyoffice-desktopeditors
     vlc
     ghostty
@@ -145,6 +144,7 @@ in
 
     # Unstable
     unstable.noctalia
+    unstable.brave-origin
   ];
 
   ###########################################################################
